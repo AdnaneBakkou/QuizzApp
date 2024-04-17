@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124647019867",
+    "project_id": "quizapp-bakkou",
+    "storage_bucket": "quizapp-bakkou.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124647019867:android:53a86113cc26feade3767e",
+        "android_client_info": {
+          "package_name": "com.example.quizapp_bakkou"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe_l4GidrfiVPdZ4_UFtMei36JITNL3vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
