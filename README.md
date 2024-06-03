@@ -1,4 +1,4 @@
-🚀 #Excited to unveil QuizApp – my first venture into mobile app development! Built on Android using Java and enhanced with Firebase's robust services. 📱✨
+🚀 #Excited to unveil QuizApp# – my first venture into mobile app development! Built on Android using Java and enhanced with Firebase's robust services. 📱✨
 🔐 Secure Authentication, 📂 efficient Storage with Firestore, and 🗺️ Map SDK integration—QuizApp is designed to offer a seamless user interface and intuitive navigation.
 🎥 Check out this demo video to see how QuizApp can revolutionize the quiz and learning experience. Whether you're a trivia enthusiast or looking to test your skills, QuizApp is the perfect tool.
 🔗 www.bakkou.ma
